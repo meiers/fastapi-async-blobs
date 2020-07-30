@@ -1,0 +1,8 @@
+fastapi
+itsdangerous
+pydantic[ujson]
+uvicorn
+azure-storage-blob
+aiofiles
+aiohttp
+cchardet
